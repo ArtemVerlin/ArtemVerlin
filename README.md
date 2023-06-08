@@ -1,6 +1,18 @@
-### Hi there 👋
 Hi 👋 My name is Artem Verlin.
-==============================Welcome to my GitHub profile. I'm a passionate and enthusiastic beginner web developer eager to learn and grow in the world of web development.-----------------------------------------------------------------------------------------------------------------------------------------------I am currently focusing on honing my skills in front-end development and expanding my knowledge in various technologies. I have experience in HTML, CSS, JavaScript, React (including Redux and Redux Toolkit), Node.js, and Django. I enjoy creating visually appealing and user-friendly websites that bring ideas to life.* 🌍  I'm based in Jyväskylä* 🖥️  See my portfolio at [inprogress](http://inprogress)* ✉️  You can contact me at [verlin.artem@gmail.com](mailto:verlin.artem@gmail.com)* 🧠  I'm learning I'm currently expanding my skills in back-end technologies such as MongoDB, Node.js, and MySQL. This allows me to work with both front-end and back-end technologies, enabling me to develop full-stack applications.* ⚡  Feel free to explore my repositories, provide feedback, or ask any questions. I'm here to learn, grow, and make a positive impact in the web development community.
+
+Welcome to my GitHub profile. I'm a passionate and enthusiastic beginner web developer eager to learn and grow in the world of web development.
+
+I am currently focusing on honing my skills in front-end development and expanding my knowledge in various technologies. I have experience in HTML, CSS, JavaScript, React (including Redux and Redux Toolkit), Node.js, and Django. I enjoy creating visually appealing and user-friendly websites that bring ideas to life.* 
+
+🌍  I'm based in Jyväskylä*
+
+🖥️  See my portfolio at [inprogress](http://inprogress)* 
+
+✉️  You can contact me at [verlin.artem@gmail.com](mailto:verlin.artem@gmail.com)* 
+
+🧠 I'm currently expanding my skills in back-end technologies such as MongoDB, Node.js, and MySQL. This allows me to work with both front-end and back-end technologies, enabling me to develop full-stack applications.* 
+
+⚡  Feel free to explore my repositories, provide feedback, or ask any questions. I'm here to learn, grow, and make a positive impact in the web development community.
 
 ### Skills
 
