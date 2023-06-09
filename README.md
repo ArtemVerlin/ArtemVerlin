@@ -1,6 +1,6 @@
 Hi 👋 My name is Artem Verlin.
 
-Welcome to my GitHub profile. I'm a passionate and enthusiastic beginner web developer eager to learn and grow in the world of web development.
+I'm a passionate and enthusiastic beginner web developer eager to learn and grow in the world of web development.
 
 I am currently focusing on honing my skills in front-end development and expanding my knowledge in various technologies. I have experience in HTML, CSS, JavaScript, React (including Redux and Redux Toolkit), Node.js, and Django. I enjoy creating visually appealing and user-friendly websites that bring ideas to life.
 
